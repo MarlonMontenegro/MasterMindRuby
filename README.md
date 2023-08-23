@@ -1,4 +1,4 @@
-# masterMindRuby
+# MasterMindRuby
 This is a simple implementation of the classic "Mastermind" game in Ruby. The game offers two modes: one where the computer creates the secret code and the player guesses, and another where the player creates the secret code and the computer guesses. The game provides feedback on each guess to help the player or computer refine their subsequent attempts.
 
 Modes
